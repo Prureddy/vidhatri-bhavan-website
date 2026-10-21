@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 22" width="48" height="22">
+  <!-- One repeating unit of the marigold torana: string, two flowers, a mango leaf. -->
+  <path d="M0 6 Q24 12 48 6" stroke="#8B5A2B" stroke-width="1" fill="none"/>
+  <path d="M24 9 q-3 6 0 12 q3 -6 0 -12Z" fill="#2F7D32"/>
+  <path d="M24 10v10" stroke="#1E5A23" stroke-width=".6"/>
+  <g>
+    <circle cx="8" cy="8" r="6.5" fill="#E8891C"/>
+    <circle cx="8" cy="8" r="4.5" fill="#F29A2E"/>
+    <circle cx="8" cy="8" r="2" fill="#C96A0E"/>
+  </g>
+  <g>
+    <circle cx="40" cy="8" r="6.5" fill="#F2B705"/>
+    <circle cx="40" cy="8" r="4.5" fill="#F7C933"/>
+    <circle cx="40" cy="8" r="2" fill="#D99A00"/>
+  </g>
+</svg>

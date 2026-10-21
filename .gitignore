@@ -1,0 +1,8 @@
+# Original photos downloaded from Instagram; the site uses the cropped copies in assets/images/.
+/*_n.jpg
+/*_n.webp
+
+# Local build output from the Pages workflow
+_site/
+
+.DS_Store

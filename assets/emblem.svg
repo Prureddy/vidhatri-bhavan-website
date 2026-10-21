@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Placeholder emblem: replace with the restaurant's VB logo file when available. -->
+  <circle cx="32" cy="32" r="31" fill="#B8862B"/>
+  <circle cx="32" cy="32" r="27.5" fill="#FBF5EA"/>
+  <circle cx="32" cy="32" r="25" fill="#2F7D32"/>
+  <g transform="rotate(-35 32 32)">
+    <path d="M32 9c9 7 12 15 12 23s-3 16-12 23c-9-7-12-15-12-23S23 16 32 9Z" fill="#FBF5EA"/>
+    <path d="M32 12v40" stroke="#2F7D32" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M32 20l-6-3M32 26l-8-3M32 32l-8-2M32 38l-7-1M32 20l6-3M32 26l8-3M32 32l8-2M32 38l7-1" stroke="#2F7D32" stroke-width="1.2" stroke-linecap="round" opacity=".7"/>
+  </g>
+  <circle cx="45" cy="45" r="5" fill="#E8891C"/>
+  <circle cx="45" cy="45" r="2" fill="#F2B705"/>
+</svg>
